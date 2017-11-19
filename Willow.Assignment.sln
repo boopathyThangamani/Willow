@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Willow.Assignment.WebApi", "Willow.Assignment.WebApi\Willow.Assignment.WebApi.csproj", "{4277CF2A-EB3D-44BC-8385-DCC9F543D3A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Willow.Assignment.Models", "Willow.Assignment.Models\Willow.Assignment.Models.csproj", "{DD911BC2-4C41-4E58-823F-F1823B90C1F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4277CF2A-EB3D-44BC-8385-DCC9F543D3A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4277CF2A-EB3D-44BC-8385-DCC9F543D3A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4277CF2A-EB3D-44BC-8385-DCC9F543D3A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4277CF2A-EB3D-44BC-8385-DCC9F543D3A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD911BC2-4C41-4E58-823F-F1823B90C1F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD911BC2-4C41-4E58-823F-F1823B90C1F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD911BC2-4C41-4E58-823F-F1823B90C1F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD911BC2-4C41-4E58-823F-F1823B90C1F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
